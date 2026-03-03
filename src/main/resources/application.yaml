@@ -10,7 +10,7 @@ spring:
   ai:
     # 硅基流动自定义配置
     siliconflow:
-      api-key: sk-xujecnlpwhzeblchesixzesvyriochsngxykdvkrpgcasdey
+      api-key: sk-xxx
       base-url: https://api.siliconflow.cn/v1
       chat:
         model: Qwen/Qwen3-8B
